@@ -2,6 +2,8 @@
 
 Dashboard Comercial (Ficticio) contendo:
 
+■ Processos de ETL
+
 ■ Faturamento Total por Ano e Mês
 
 ■ Gráfico de área mostrando a evolução do faturamento de jan/2022 a jul/2024. Há um salto expressivo de crescimento em meados de 2022, seguido de uma estabilização entre $15–20 Mi mensais, com leve tendência de queda no final do período.
