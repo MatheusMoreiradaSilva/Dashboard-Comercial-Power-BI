@@ -1,7 +1,7 @@
 # Dashboard-Comercial-Power-BI
 
 <p align="center">
-  <img src="https://github.com/MatheusMoreiradaSilva/Dashboard-Comercial-Power-BI/blob/e8311e587b41767f1cacff0c6d33528a02431d33/Dashboard.jpg" width="800" alt="Dashboard img">
+  <img src="https://github.com/MatheusMoreiradaSilva/Dashboard-Comercial-Power-BI/blob/e8311e587b41767f1cacff0c6d33528a02431d33/Dashboard.jpg" width="870" alt="Dashboard img">
 </p>
 
 Dashboard Comercial (Ficticio) contendo:
