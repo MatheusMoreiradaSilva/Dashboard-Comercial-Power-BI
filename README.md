@@ -1,5 +1,7 @@
 # Dashboard-Comercial-Power-BI
 
+![Dashboard]([https://github.com](https://github.com/MatheusMoreiradaSilva/Dashboard-Comercial-Power-BI/blob/e8311e587b41767f1cacff0c6d33528a02431d33/Dashboard.jpg))
+
 Dashboard Comercial (Ficticio) contendo:
 
 ■ Processos de ETL
